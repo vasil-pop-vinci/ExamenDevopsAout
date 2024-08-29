@@ -44,4 +44,4 @@ jobs:
           azure_static_web_apps_api_token: '7b129a632ba063ff4ff493368e4828ae19e4c1627f7c7d633141aa57db8d8a015-45bb0c2d-6e4b-4e89-9a62-9a8e4f4ded95003578923'
           action: 'upload'
           app_location: '/dist'
-          output_location: 'build'
+          output_location: ''
