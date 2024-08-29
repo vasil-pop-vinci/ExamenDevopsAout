@@ -38,6 +38,6 @@ Don't hesitate to run the command to check the final output of your application.
 This has been built with the version 18.18 of Node JS
 
 ### Exam information - to be completed
-- Student (Lastname and Firstname) :
-- GitHub repository URL :
-- Azure Static Web app URL : 
+- Student (Lastname and Firstname) : POP VASIL
+- GitHub repository URL : https://github.com/vasil-pop-vinci/ExamenDevopsAout
+- Azure Static Web app URL : https://red-dune-0e8d08d03.5.azurestaticapps.net
