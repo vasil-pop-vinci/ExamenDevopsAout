@@ -7,3 +7,9 @@ describe('validations tests suites - isValid', () => {
         expect(result).toBeDefined();
     });
 });
+
+describe('Leap Year Validation', () => {
+    test('should return true for years divisible by 400', () => {
+        expect(isValid(2000)).toBe(true);
+    });
+});
