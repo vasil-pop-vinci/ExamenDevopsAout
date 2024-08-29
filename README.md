@@ -35,7 +35,7 @@ npm run preview
 ### Notes
 When running the preview command, the changes done in "src" folder are applied ONLY when it is build first.
 Don't hesitate to run the command to check the final output of your application.
-This has been built with the version 18.18 of Node JS
+This has been built with the version 18.18 of Node JS.
 
 ### Exam information - to be completed
 - Student (Lastname and Firstname) : POP VASIL
